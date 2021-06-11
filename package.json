@@ -1,0 +1,20 @@
+{
+  "name": "next-first",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "availity-reactstrap-validation": "^2.7.1",
+    "bootstrap": "^4.6.0",
+    "isomorphic-unfetch": "^3.1.0",
+    "next": "10.2.3",
+    "next-i18next": "^8.4.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "reactstrap": "^8.9.0"
+  }
+}
